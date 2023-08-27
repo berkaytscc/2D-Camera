@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D-Camera", "2D-Camera.csproj", "{214B1A9B-14CA-4B6D-86A5-6D32DA4AE680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DCamera", "2DCamera.csproj", "{214B1A9B-14CA-4B6D-86A5-6D32DA4AE680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdZMN4XjYhQRpidjuIluRQaFvI+QOiKs2LE3byNN3meykiJkKzmBGNI1/iD5Gvamgaa25hBPKV44rPh5ySJ3+g==",
+  "dgSpecHash": "l3vETf5BCQHxPL07LqjKR/cxSX056PwySTLa9PS80Fuc7IK/u2Z2BewyHzXQfesj7AuatYrgIBVZyAqNSnhdyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berka\\Desktop\\2D-Camera\\2D-Camera.csproj",
+  "projectFilePath": "C:\\Users\\berka\\Desktop\\2D-Camera\\2DCamera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berka\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\berka\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

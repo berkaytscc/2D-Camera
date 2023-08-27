@@ -108,9 +108,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berka\\Desktop\\2D-Camera\\2D-Camera.csproj",
-      "projectName": "2D-Camera",
-      "projectPath": "C:\\Users\\berka\\Desktop\\2D-Camera\\2D-Camera.csproj",
+      "projectUniqueName": "C:\\Users\\berka\\Desktop\\2D-Camera\\2DCamera.csproj",
+      "projectName": "2DCamera",
+      "projectPath": "C:\\Users\\berka\\Desktop\\2D-Camera\\2DCamera.csproj",
       "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\berka\\Desktop\\2D-Camera\\obj\\",
       "projectStyle": "PackageReference",
